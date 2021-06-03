@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reasons for passing the physicians bil[l] which prays only the following grants and confirmations.</title>
+            <author>Royal College of Physicians of London.</author>
+         </titleStmt>
+         <extent>Approx. 7KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B28704</idno><idno type="EEBO-CITATION">99888625</idno>
+  <idno type="VID">195762</idno>
+  <idno type="EEBO-PROQUEST">2240901962</idno>
+  
+            <idno type="STC">Wing R500</idno>
+            <idno type="STC">Interim Tract Supplement Guide 777.l.1.[7]</idno>
+            <idno type="STC">ESTC R231333</idno>
+            <idno type="PROQUEST">ocm99888625</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99888625e"/>
+            <note>(EEBO-TCP ; phase 2, no. B28704)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 195762)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E7:1[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reasons for passing the physicians bil[l] which prays only the following grants and confirmations.</title>
+                  <author>Royal College of Physicians of London.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>169-?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>At end of caption title in ms.: "bill read 7 June 1689 in House of Lords".</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Imperfect: mutilated with loss of print.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Royal College of Physicians of London --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+               <term type="topical_term">Medicine --  Law and legislation --  England --  Early works to 1800.</term>
+               <term type="geographic_name">England --  Charters, grants, privileges --  Early works to 1800.</term>
+               <term type="geographic_name">London (England) --  History --  17th century --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:195762:1"/>
+            <pb facs="tcp:195762:1"/>
+            <head>REASONS For Passing the PHYSICIANS BIL<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> Which Prays only the following <hi>GRANTS</hi> and <hi>CONFIRMATIONS.</hi>
+            </head>
+            <list>
+               <head>
+                  <seg rend="decorInit">T</seg>HAT the Number of Fellows encreased from 40 to 80 may be continued.</head>
+               <item>1. BECAUSE of the great encrease of Inhabitants in the Town since the year 1660, when there w<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Fellows, which Number was in 1663 encreased to 40. And in proportion to the Populousnes<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> City since that time, the Number of 80 is thought necessary, the College having declared upon<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> making that private By-Law; That the Number might be encreased, if the Honour or Interest College required; which accordingly was done, to answer the forementioned Ends, as likewise by Acts of the said College.</item>
+               <item>2. To take into the Body of the Fellows several Physicians of great Eminency and Reputation; such as Dr. <hi>Bidgood<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                        <desc>•…</desc>
+                     </gap>
+                     <g ref="char:EOLunhyphen"/>eter,</hi> Dr. <hi>Pierce</hi> of <hi>Bath,</hi> Dr. <hi>Needham,</hi> Dr. <hi>Stokeham,</hi> Dr. <hi>Lister,</hi> Dr. <hi>Radcliffe, &amp;c.</hi>
+               </item>
+               <item>3. BECAUSE by the Usual Fees and Subscriptions upon the Admission of 40 new Fellows, there has been advance<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 1500 <hi>l.</hi> towards the payment of a Debt of 6000 <hi>l.</hi> contracted partly by the ill management of the late Presidents<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>lects, which is desired to be remedied by this Bill for the future. And it also makes a Fund for the payment of the<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>der, in half the time.
+<list>
+                     <item>
+                        <hi>NOTE,</hi> That each Member paid upon his admittance the Summe of <hi>70 l.</hi> And they who would not subscribe were not admitted; so that there was a perfect Contract upon valuable Consideration.</item>
+                  </list>
+               </item>
+            </list>
+            <list>
+               <head>THAT the Number of Elects (out of which Presidents are to be chosen) may be encreased from 8 to 16.</head>
+               <item>1. Because it is convenient the Number of the Elects should be encreased in some proportion to the Number of there having been 8 Elects when there were but 30 Fellows.</item>
+               <item>2. The President being to be chosen only out of the Elects, there may be the better choice of fit Persons for that<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </item>
+               <item>3. BECAUSE the auditing and passing of the College Accompts wholly depending of late upon the President and E<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> hath been found by Experience, that either by Combination in so small a Number, or Neglect, the Colledge i<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> brought into great Debts.</item>
+            </list>
+            <list>
+               <head>THAT the President should be chosen by the Majority of all the Fellows out of the 16 Elects.</head>
+               <item>1. Because the Statutes of the College have been notoriously violated by the late Presidents chosen by the Elects, College can have no redress.</item>
+               <item>2. The Money of the College hath been much imbezled and ill managed by Presidents so elected, and some part appropriated by such Presidents to their own Use; Whereby every Fellow becomes an equal sufferer by the mis<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> of such Presidents in whose Election they have no share. And by this means great part of the forementione<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> 6000 <hi>l.</hi> hath been contracted.</item>
+               <item>3. BECAUSE the Elects choosing the Presidents out of so small a Number, they combine to favour one another Elections without regard to the Interest of the Fellows; who are equally concerned to see their Statutes preserved Treasury well managed; and have no other way to prevent such Miscarriages, and preserve the Being of the Coll<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> by the choosing a President according to the Methods proposed in this Bill.</item>
+               <item>4. Because the President being an Officer of the greatest consequence to the good of the College, it is highly re<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> that as he be chosen only out of the 16 Seniors or Elects of the said College; so that he should be Elected by t<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> sent and suffrage of the Majority of the Fellows, as is desired by this Bill.</item>
+            </list>
+            <list>
+               <head>THAT the Censors may have Power to administer Oaths to Witnesses.</head>
+               <item>1. This is no new Power, but only a Confirmation of a Grant implied in our Original Charter granted by K. <hi>H.</hi> Confirmed by 2 Acts of Parliament, <hi>viz.</hi> 14, 15 <hi>H.</hi> 8. <hi>c.</hi> 5. and by the 1. Q. <hi>Mary.</hi> Sess. 2. <hi>c.</hi> 6. and also expresly Charter of King <hi>James</hi> the First.</item>
+               <item>2. This is so far from being an Arbitrary Power, that it is the greatest security against it, and much for the adva<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> the King's Subjects; For seeing four Physicians of the College (called Censors) are both obliged and enabled Laws of the Kingdom to punish all Practisers of Physick (as well their own Members, as others) for dangerous<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> ages in prescribing improper and hurtful Medicines by fine or amerciaments, not exceeding 20 <hi>l.</hi> As likewise by I<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ment; (which duty they are Solemnly sworn faithfully to perform) 'Tis highly reasonable that no Fine should b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>
+                  <g ref="char:EOLunhyphen"/>ed, or Person committed to Prison for any such Fault, without Oath duly made before the Censors of the Coll<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> credible Witnesses. This therefore, is not (as some falsly suggest) a sort of Oath <hi>ex Officio,</hi> whereby any Perso<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> shall be oblig'd to accuse themselves, for it is not to be administred to the Party offending, but to witnesses who discover the plain matter of Fact upon complaint of mischief done to any of the King's Subjects by the unski<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> pernicious administration of Physick. And in this Case the Persons cited are not whomsoever the Censors please, b<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap> Persons only as attended the Patient in the time of their sickness.</item>
+            </list>
+            <p>THAT they may be exempted from Watch and Ward, and all Parochial Duties within the City of <hi>London</hi> and 7 Miles<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> This is no new priviledge, but what was granted though not so fully expressed by the 32 <hi>H.</hi> 8. <hi>c.</hi> 40. where th<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>emption is expresly granted us within the City and Suburbs, but the Suburbs extending no farther then the Bills of<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>tality, and all our other priviledges reaching seven Miles round; we suppose the Intention of the Act was, that thi<gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible: right margin cropped or obscured" resp="#keyers" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>emption should reach as far as our Jurisdiction, and therefore pray it may be so Explained.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
